@@ -10,6 +10,7 @@ body{
 background:#fff;
 color:#333;
 line-height:1.6;
+font-style: poppins, sans-serif;
 }
 
 /* NAVBAR */
@@ -285,6 +286,7 @@ text-align: center;
 grid-column:1/-1;
 margin-top:20px;
 color: #333;
+font-size: 18px;
 }
 .price-list span{
     font-family: Georgia, 'Times New Roman', Times, serif;
